@@ -1,3 +1,5 @@
+*Supported Languages - English, Français, Português, Español, Indonesia
+
 Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
 
 Greasyfork Userscript - https://greasyfork.org/en/users/1553223-ozler365
